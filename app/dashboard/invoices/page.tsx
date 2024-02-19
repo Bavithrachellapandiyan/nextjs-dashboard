@@ -1,4 +1,4 @@
-const page = () => (<p>"Invoice page"</p>);
+const page = () => (<p>Invoice page</p>);
 export default page;
 
 // export default function page(){
